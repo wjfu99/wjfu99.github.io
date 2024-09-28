@@ -116,7 +116,7 @@
   /* color: rgb(255, 122, 122); */
   /* color: #7344de; */
   color: #2980f1;
-  width: 25.3em;
+  width: 35em;
   font-weight: 800;
   border-radius: 5px;
   padding: 0.0em;
@@ -130,6 +130,66 @@
   font-weight: 500;
   border-radius: 5px;
   padding: 0.0em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  line-height:1.5;
+  text-align: center;
+}
+
+.ccf {
+  background-color: rgb(250	227	222);
+  color: rgb(187	51	28);
+  width: 5.5em;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 0.0em;
+  margin-left: 0.20em;
+  margin-right: 0.20em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  line-height:1.5;
+  text-align: center;
+}
+
+.sci {
+  background-color: rgb(230	222	237);
+  color: rgb(124	94	147);
+  width: 5.5em;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 0.0em;
+  margin-left: 0.20em;
+  margin-right: 0.20em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  line-height:1.5;
+  text-align: center;
+}
+
+.core {
+  background-color: rgb(222	236	220);
+  color: rgb(85	134	76);
+  width: 5.5em;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 0.0em;
+  margin-left: 0.20em;
+  margin-right: 0.20em;
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+  line-height:1.5;
+  text-align: center;
+}
+
+.thcpl {
+  background-color: rgb(245	223	204	);
+  color: rgb(191	125	75);
+  width: 5.5em;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 0.0em;
+  margin-left: 0.20em;
+  margin-right: 0.20em;
   padding-left: 0.2em;
   padding-right: 0.2em;
   line-height:1.5;
