@@ -1,16 +1,16 @@
 {
-  "name": "Jaehong Homepage",
+  "name": "wenjie-fu-homepage",
   "version": "1.0.0",
-  "description": "Personal Website",
+  "description": "Academic homepage of Wenjie Fu",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://jaehong31.github.io"
+    "url": "https://github.com/wjfu99/wjfu99.github.io.git"
   },
   "scripts": {
     "deploy": "gh-pages -d ./"
   },
-  "author": "Jaehong Yoon <jaehong.yoon@kaist.ac.kr>",
+  "author": "Wenjie Fu <wjfu99@outlook.com>",
   "license": "UNLICENSED",
   "dependencies": {
     "gh-pages": "^1.1.0"
